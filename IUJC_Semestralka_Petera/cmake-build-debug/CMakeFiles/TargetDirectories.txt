@@ -1,0 +1,3 @@
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/CMakeFiles/IUJC_Semestralka_Petera.dir

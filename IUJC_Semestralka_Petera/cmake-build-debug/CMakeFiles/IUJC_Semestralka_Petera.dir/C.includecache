@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/datetime.h
+
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/main.c
+seznamMereni.h
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/seznamMereni.h
+stdio.h
+-
+
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/mereni.h
+datetime.h
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/datetime.h
+
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/seznamMereni.h
+datetime.h
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/datetime.h
+seznamMereni.h
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/seznamMereni.h
+mereni.h
+/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/mereni.h
+

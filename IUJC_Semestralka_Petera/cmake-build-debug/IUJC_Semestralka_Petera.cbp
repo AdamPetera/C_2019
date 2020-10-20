@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="IUJC_Semestralka_Petera"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IUJC_Semestralka_Petera">
+				<Option output="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/IUJC_Semestralka_Petera" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 IUJC_Semestralka_Petera"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IUJC_Semestralka_Petera/fast">
+				<Option output="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/IUJC_Semestralka_Petera" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 IUJC_Semestralka_Petera/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/datetime.c">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/datetime.h">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/main.c">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/mereni.c">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/mereni.h">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/seznamMereni.c">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/seznamMereni.h">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/vlastniFunkce.c">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/vlastniFunkce.h">
+			<Option target="IUJC_Semestralka_Petera"/>
+		</Unit>
+		<Unit filename="/Users/adampetera/CLionProjects/IUJC_Semestralka_Petera/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
